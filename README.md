@@ -3,4 +3,4 @@
 <p>
  <a href ="https://jash-desai.github.io/bsbe-timetable/">BSBE timetable</a>
 </p>
- <a href ="https://jash-desai.github.io/bsbe-timetable/">https://jash-desai.github.io/bsbe-timetable</a>
+<!--  <a href ="https://jash-desai.github.io/bsbe-timetable/">https://jash-desai.github.io/bsbe-timetable</a> -->
