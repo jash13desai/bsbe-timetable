@@ -1,7 +1,7 @@
 ## BSBE - Class of 2020.
 ### Timetable.  Course Hub Links.  Quiz Schedule.
 
-## ⚙️ Tech-Stack
+## ⚙️ Tech-Stack :
 Built by HTML-CSS-JavaScript
 
 ##
